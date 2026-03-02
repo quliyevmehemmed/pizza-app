@@ -26,7 +26,6 @@ A modern, fast, and responsive pizza ordering application built with **React.js*
   &nbsp;&nbsp;
   <img src="public/assets/screenshots/mobile-view.png" width="220" alt="Mobile View" />
 </p>
-*Note: You can replace these with your own screenshots from the `assets` folder.*
 
 ## 🚀 Getting Started
 
