@@ -21,9 +21,11 @@ A modern, fast, and responsive pizza ordering application built with **React.js*
 
 ## 📸 Preview
 
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](https://via.placeholder.com/400x250?text=Desktop+Table+View) | ![Mobile](https://via.placeholder.com/200x350?text=Mobile+Vertical+View) |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/DESKTOP_SEKLININ_LINKI" width="450" alt="Desktop View" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/MOBILE_SEKLININ_LINKI" width="220" alt="Mobile View" />
+</p>
 *Note: You can replace these with your own screenshots from the `assets` folder.*
 
 ## 🚀 Getting Started
